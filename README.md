@@ -4,7 +4,7 @@ Proyecto colaborativo de Ingeniería de Software - Unidad 3
 
 ## Descripción
 
-Proyecto escolar para la materia de Ing. de Software"
+Proyecto escolar para la materia de Ing. de Software
 
 ## Equipo
 
